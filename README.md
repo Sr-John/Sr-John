@@ -12,6 +12,6 @@
 🚀 | [Nome do Projeto](link-do-projeto) - Breve descrição  
     
 
-📫 **Contato:**  
+# 📫 **Contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seulinkedin/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/seuusuario/)  
