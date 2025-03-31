@@ -9,7 +9,9 @@
 
 📚 | Graduando no Curso de Tecnólogo em Análise e Desenvolvimento de Sistemas (UVA-RJ)
 
-🚀 | [Nome do Projeto](link-do-projeto) - Breve descrição  
+🚀 | [Bleach 20th Anniversary](https://sr-john.github.io/anniversary-bleach/)  
+    Curiosidades sobre Bleach 
+    Um design inspirado no universo de Bleach  
     
 
 # ☎ **Contato:**  
