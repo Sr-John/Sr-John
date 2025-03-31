@@ -25,7 +25,7 @@
 
 📚 | Graduating in the Technologist Course in Systems Analysis and Development (UVA-RJ)
 
-🚀 | [Bleach 20th Anniversary](https://sr-john.github.io/anniversary-bleach/)
+🚀 | I created a special website to celebrate the anniversary of this amazing anime! [Bleach 20th Anniversary](https://sr-john.github.io/anniversary-bleach/)
 
 ✅ Fun facts about Bleach
 
