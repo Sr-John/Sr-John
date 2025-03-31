@@ -9,6 +9,8 @@
 <h2> Sobre mim </h2>
 👩🏻‍🎓 | 20 anos
 
+
+
 📚 | Graduando no Curso de Tecnólogo em Análise e Desenvolvimento de Sistemas (UVA-RJ)
 
 🚀 |  Criei um site especial para comemorar o aniversário desse anime incrível! 
