@@ -26,3 +26,11 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" />
+<div align="left">
+  <h3>📚 FERRAMENTAS/LINGUAGENS QUE ESTOU APRENDENDO  - TOOLS/LANGUAGES I'M LEARNING</h3>
+</div>
+  <div style="display: inline_block"><br>
+    <a href="https://www.typescriptlang.org/" style = "decoration: none">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" />
+    </a>
+</div>
