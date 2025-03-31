@@ -23,15 +23,6 @@
   <h3>🤓 FERRAMENTAS/LINGUAGENS QUE DOMINO  - TOOLS/LANGUAGES I WORK WITH</h3>
 </div>
 <div style="display: inline_block"><br>
-  <a href="https://python.org">
-      <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
-    </a>
-    <a href="https://jupyter.org">
-      <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" />
-    </a>
-    <a href="https://moodle.org">
-      <img align="center" alt="Moodle" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/moodle/moodle-original.svg" />
-    </a>
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" />
