@@ -35,7 +35,7 @@
   <h3> ☎ CONTATOS - CONTACTS</h3>
 </div>  
 
-<a href = "mailto:contato@vacsa.silveiras@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@jpneves.rj@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "www.linkedin.com/in/joão-pedro-neves-cantarela-023a172b0">
 <img loading="lazy" height="30" width="50" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" >
 </a> 
