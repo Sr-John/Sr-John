@@ -11,7 +11,8 @@
 
 📚 | Graduando no Curso de Tecnólogo em Análise e Desenvolvimento de Sistemas (UVA-RJ)
 
-🚀 | [Bleach 20th Anniversary](https://sr-john.github.io/anniversary-bleach/)  
+🚀 |  Criei um site especial para comemorar o aniversário desse anime incrível! 
+ [Bleach 20th Anniversary](https://sr-john.github.io/anniversary-bleach/)  
 
 ✅ Curiosidades sobre Bleach 
     
