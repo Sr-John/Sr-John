@@ -13,6 +13,6 @@
     
 
 # ☎ **Contato:**  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s))](www.linkedin.com/in/joão-pedro-neves-cantarela-023a172b0)
+[![LinkedIn]([[https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s](https://static.vecteezy.com/system/resources/previews/018/930/480/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)))](www.linkedin.com/in/joão-pedro-neves-cantarela-023a172b0)
 
 [![Gmail](https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:jpneves.rj@gmail.com)  
