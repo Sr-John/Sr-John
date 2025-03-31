@@ -18,3 +18,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/joão-pedro-neves-cantarela-023a172b0)
 
 [![Gmail](https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:jpneves.rj@gmail.com)  
+
+<div align="left">
+  <h3>🤓 FERRAMENTAS/LINGUAGENS QUE DOMINO  - TOOLS/LANGUAGES I WORK WITH</h3>
+</div>
+<div style="display: inline_block"><br>
+  <a href="https://python.org">
+      <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
+    </a>
+    <a href="https://jupyter.org">
+      <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" />
+    </a>
+    <a href="https://moodle.org">
+      <img align="center" alt="Moodle" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/moodle/moodle-original.svg" />
+    </a>
+  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" />
