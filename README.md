@@ -12,7 +12,6 @@
 
 📚 | Graduando no Curso de Tecnólogo em Análise e Desenvolvimento de Sistemas (UVA-RJ)
 
-
 🚀 |  Criei um site especial para comemorar o aniversário desse anime incrível! 
  [Bleach 20th Anniversary](https://sr-john.github.io/anniversary-bleach/)  
 
@@ -23,8 +22,8 @@
     
 #
 <h2> About me </h2>
-👩🏻‍🎓 | 20 years
 
+👩🏻‍🎓 | 20 years
 
 📚 | Graduating in the Technologist Course in Systems Analysis and Development (UVA-RJ)
 
