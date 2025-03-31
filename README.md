@@ -32,7 +32,7 @@
 [![Gmail](https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:jpneves.rj@gmail.com)  
 
 <div align="left">
-  <h3>🤓 FERRAMENTAS/LINGUAGENS QUE DOMINO  - TOOLS/LANGUAGES I WORK WITH</h3>
+  # 🤓 FERRAMENTAS/LINGUAGENS QUE DOMINO  - TOOLS/LANGUAGES I WORK WITH</h3>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
