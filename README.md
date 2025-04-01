@@ -8,7 +8,7 @@
 #
 <h2> Sobre mim </h2>
 
-🧑🏻‍🎓 | 20 anos
+🎓 | 20 anos
 
 📚 | Graduando no Curso de Tecnólogo em Análise e Desenvolvimento de Sistemas (UVA-RJ)
 
@@ -23,7 +23,7 @@
 #
 <h2> About me </h2>
 
-🧑🏻‍🎓 | 20 years
+🎓 | 20 years
 
 📚 | Graduating in the Technologist Course in Systems Analysis and Development (UVA-RJ)
 
