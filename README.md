@@ -57,6 +57,6 @@
   <div style="display: inline_block"><br>
     <a href="https://www.typescriptlang.org/" style = "decoration: none">
    <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" />
-      <img align="center" alt="Java" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css](https://cdn-icons-png.flaticon.com/512/5968/5968282.png)"/>
+      <img align="center" alt="Java" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png"/>
     </a>
 </div>
