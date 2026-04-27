@@ -4,7 +4,7 @@
 
 <h3>IDIOMA DO CURRÍCULO - CURRICULUM LANGUAGE </h3>
 
-<img src="https://p4.wallpaperbetter.com/wallpaper/532/402/515/brasil-brazil-flag-wallpaper-preview.jpg" width="50px">ﾠ<img src="https://imgs.search.brave.com/3stu3GtBOZrzyl8c48MBo1j7bgnd3FnKGEK1nX16QOI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wNC53/YWxscGFwZXJiZXR0/ZXIuY29tL3dhbGxw/YXBlci8xMjMvMzgw/Lzk0Ni9mbGFnLXVu/aXRlZC1zdGF0ZXMt/dW5pdGVkLXN0YXRl/cy13YWxscGFwZXIt/cHJldmlldy5qcGc" width="50px">ﾠ
+<img src="https://p4.wallpaperbetter.com/wallpaper/532/402/515/brasil-brazil-flag-wallpaper-preview.jpg" width="50px">ﾠ<img src="[https://imgs.search.brave.com/3stu3GtBOZrzyl8c48MBo1j7bgnd3FnKGEK1nX16QOI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wNC53/YWxscGFwZXJiZXR0/ZXIuY29tL3dhbGxw/YXBlci8xMjMvMzgw/Lzk0Ni9mbGFnLXVu/aXRlZC1zdGF0ZXMt/dW5pdGVkLXN0YXRl/cy13YWxscGFwZXIt/cHJldmlldy5qcGc](https://imgs.search.brave.com/VL7qr7Yyx7Dhbs6NE-H_YjeDILlQ_Ns0dJeVYf5LYAA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMjIw/NTkyMjc0Ny9wdC9m/b3RvL2ZsYWctb2Yt/dGhlLXVuaXRlZC1z/dGF0ZXMtb2YtYW1l/cmljYS5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9M3l5ajlB/TDVJcF8zSGZnU3lf/cGh0RjVIWGs0TUlZ/U2Fqbmd5ZXlwRGhG/ST0)" width="50px">ﾠ
 <h2> Sobre mim </h2>
 
 🎓 | 21 anos
